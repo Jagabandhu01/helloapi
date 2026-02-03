@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: helloapi
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: helloapi
+  template:
+    metadata:
+      labels:
+        app: helloapi
+    spec:
+      containers:
+      - name: helloapi
+        image: helloapi:1.0
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 8080
+

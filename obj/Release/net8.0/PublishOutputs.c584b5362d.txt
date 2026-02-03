@@ -1,0 +1,12 @@
+/Users/jagabandhuprusty/k8s-learning/HelloApi/bin/Release/net8.0/publish/HelloApi
+/Users/jagabandhuprusty/k8s-learning/HelloApi/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/jagabandhuprusty/k8s-learning/HelloApi/bin/Release/net8.0/publish/appsettings.json
+/Users/jagabandhuprusty/k8s-learning/HelloApi/bin/Release/net8.0/publish/HelloApi.dll
+/Users/jagabandhuprusty/k8s-learning/HelloApi/bin/Release/net8.0/publish/HelloApi.deps.json
+/Users/jagabandhuprusty/k8s-learning/HelloApi/bin/Release/net8.0/publish/HelloApi.runtimeconfig.json
+/Users/jagabandhuprusty/k8s-learning/HelloApi/bin/Release/net8.0/publish/HelloApi.pdb
+/Users/jagabandhuprusty/k8s-learning/HelloApi/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/jagabandhuprusty/k8s-learning/HelloApi/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/jagabandhuprusty/k8s-learning/HelloApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jagabandhuprusty/k8s-learning/HelloApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jagabandhuprusty/k8s-learning/HelloApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
