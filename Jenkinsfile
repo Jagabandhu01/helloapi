@@ -1,3 +1,15 @@
+stage('Build') {
+  agent {
+    docker {
+      image 'mcr.microsoft.com/dotnet/sdk:8.0'
+      args '-u root:root'
+    }
+  }
+  steps {
+    sh 'dotnet --version'
+    sh 'dotnet build HelloApi.csproj'
+  }
+}
 pipeline {
   agent any
 
